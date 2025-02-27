@@ -1,0 +1,17 @@
+:root {
+  --primary-color: #270949; /* Deep Purple */
+  --secondary-color: #4654a3; /* Blue Shade */
+  --background-color: #e6e9f5; /* Light Grayish Blue */
+  --accent-color: #f95c3d; /* Vibrant Orange-Red */
+  --white-color: #ffffff; /* Pure White */
+}
+
+
+/* Dark Theme Variables */
+.dark {
+  --primary-color: #14052a; /* Dark Purple */
+  --secondary-color: #303b78; /* Deep Blue */
+  --background-color: #1a1d2e; /* Dark Navy Blue */
+  --accent-color: #d8432b; /* Deep Orange-Red */
+  --white-color: #cfcfcf; /* Light Gray (Soft White) */
+}

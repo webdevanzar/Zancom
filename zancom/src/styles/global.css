@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+* {
+  box-sizing: border-box;
+  font-family: "Roboto", serif;
+}
+
+/* ::-webkit-scrollbar {
+  display: none;
+} */
+
+body {
+  transition: background-color 0.8s ease-in-out, color 0.4s ease-in-out;
+}
