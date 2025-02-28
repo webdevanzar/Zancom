@@ -1,17 +1,22 @@
 :root {
   --primary-color: #270949; /* Deep Purple */
+  --text-color: #000000;
+  --hover-color:#f2f2f2;
+  --selecting-color:#efefef;
   --secondary-color: #4654a3; /* Blue Shade */
   --background-color: #e6e9f5; /* Light Grayish Blue */
   --accent-color: #f95c3d; /* Vibrant Orange-Red */
   --white-color: #ffffff; /* Pure White */
 }
 
-
 /* Dark Theme Variables */
 .dark {
   --primary-color: #14052a; /* Dark Purple */
+  --text-color: #ffffff;
+  --hover-color:#262626;
+  --selecting-color:#1a1a1a;
   --secondary-color: #303b78; /* Deep Blue */
   --background-color: #1a1d2e; /* Dark Navy Blue */
   --accent-color: #d8432b; /* Deep Orange-Red */
-  --white-color: #cfcfcf; /* Light Gray (Soft White) */
+  --white-color: #000000;
 }
